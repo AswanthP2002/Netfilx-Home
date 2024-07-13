@@ -25,7 +25,7 @@ body, html{
 }
 #home-1{
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8)0, rgba(0, 0, 0, 0)60%, rgba(0, 0, 0, 0.8)100%),
-    url("https://assets.nflxext.com/ffe/siteui/vlv3/1fd8c6d0-20db-4667-860e-dd1ad7353ac0/10f8d166-7c8c-499a-b16f-57c3740cdeae/IN-en-20240624-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+    url("Images/home-bg.jpg");
     background-position-y: 70%;
     background-position-x: 50%;
     height: 96vh;
